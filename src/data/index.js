@@ -67,8 +67,7 @@ export const projects = [
     tech: ["HTML5", "CSS3", "JavaScript"],
     description:
       "Modern landing page untuk brand kopi lokal",
-    image:
-     "../public/img/cafe.png",
+    image: "/img/cafe.png",
     link: "https://landing-page-rosy-ten-21.vercel.app/",
   },
   {
@@ -78,8 +77,7 @@ export const projects = [
     tech: ["Typescript", "Javascript", "Tailwind"],
     description:
       "Website resmi untuk program pengembangan literasi bahasa dan budaya Indonesia bagi diaspora.",
-    image:
-      "../public/img/bahasa.png", 
+    image: "/img/bahasa.png", 
     link: "https://bahasa-nusantara.vercel.app/",
   },
   {
