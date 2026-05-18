@@ -68,7 +68,7 @@ export const projects = [
     description:
       "Modern landing page untuk brand kopi lokal",
     image:
-     "../public/img/cafe.jpg",
+     "../public/img/kala.jpg",
     link: "https://kalaseduh.vercel.app/",
   },
   {
