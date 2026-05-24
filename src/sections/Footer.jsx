@@ -18,7 +18,7 @@ const Footer = () => {
             <p className="text-slate-400 max-w-sm mb-8 leading-relaxed">
               Kami adalah digital agency modern yang fokus pada pembuatan website profesional dengan performa tinggi dan desain memukau.
             </p>
-            <div className="flex items-center gap-4">
+            {/* <div className="flex items-center gap-4">
               <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Kunjungi Instagram WebStudio" className="w-10 h-10 rounded-full bg-slate-800 text-slate-300 flex items-center justify-center hover:bg-indigo-500 hover:text-white transition-colors">
                 <FiInstagram size={20} />
               </a>
@@ -31,7 +31,7 @@ const Footer = () => {
               <a href="https://github.com" target="_blank" rel="noopener noreferrer" aria-label="Kunjungi GitHub WebStudio" className="w-10 h-10 rounded-full bg-slate-800 text-slate-300 flex items-center justify-center hover:bg-slate-700 hover:text-white transition-colors">
                 <FiGithub size={20} />
               </a>
-            </div>
+            </div> */}
           </div>
 
           <div>

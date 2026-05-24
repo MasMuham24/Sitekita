@@ -40,25 +40,26 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 mb-1">WhatsApp / Phone</h4>
-                  <p className="text-slate-600">+62 812 3456 7890</p>
+                  <p className="text-slate-600">+62 877-1436-2767</p>
+                  <p className="text-slate-600">+62 838-2275-7990</p>
                 </div>
               </div>
-              <div className="flex items-start gap-4">
+              {/* <div className="flex items-start gap-4">
                 <div className="w-12 h-12 rounded-xl bg-sky-50 text-sky-600 flex items-center justify-center flex-shrink-0">
                   <FiMail size={24} />
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 mb-1">Email</h4>
-                  <p className="text-slate-600">hello@webstudio.com</p>
+                  <p className="text-slate-600">hello@sitekita.com</p>
                 </div>
-              </div>
+              </div> */}
               <div className="flex items-start gap-4">
                 <div className="w-12 h-12 rounded-xl bg-pink-50 text-pink-600 flex items-center justify-center flex-shrink-0">
                   <FiInstagram size={24} />
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 mb-1">Instagram</h4>
-                  <p className="text-slate-600">@webstudio.id</p>
+                  <p className="text-slate-600">@sitekita.id</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -67,7 +68,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="font-bold text-slate-900 mb-1">Lokasi</h4>
-                  <p className="text-slate-600">Jl. Teknologi No. 99, Jakarta Selatan</p>
+                  <p className="text-slate-600">Demak, Jawa Tengah</p>
                 </div>
               </div>
             </div>
