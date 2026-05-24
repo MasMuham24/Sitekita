@@ -68,7 +68,7 @@ export const projects = [
     description:
       "Modern landing page untuk brand kopi lokal",
     image:
-     "../public/img/kala.jpg",
+     "img/kala.jpg",
     link: "https://kalaseduh.vercel.app/",
   },
   {
@@ -79,7 +79,7 @@ export const projects = [
     description:
       "Website resmi untuk program pengembangan literasi bahasa dan budaya Indonesia bagi diaspora.",
     image:
-      "../public/img/bahasa.png", 
+      "img/bahasa.png", 
     link: "https://bahasa-nusantara.vercel.app/",
   },
   {
