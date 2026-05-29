@@ -84,14 +84,14 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Creative Agency Portfolio",
+    title: "Titik Temu Cafe",
     category: "Landing Page",
-    tech: ["React", "Framer Motion", "Tailwind"],
+    tech: ["HTML5", "Framer Motion", "Tailwind"],
     description:
-      "Award-winning interactive portfolio with smooth scroll animations.",
+      "Award-winning interactive landing page with smooth scroll animations.",
     image:
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "img/titik.png",
+    link: "https://titik-temu.vercel.app/",
   },
   {
     id: 4,
