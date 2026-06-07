@@ -12,7 +12,7 @@ const Contact = () => {
     message: "",
   });
 
-  const WA_NUMBER = "6287714362767"; // Ganti dengan nomor utama kamu (tanpa + dan spasi)
+  const WA_NUMBER = "6283822757990"; // Ganti dengan nomor utama kamu (tanpa + dan spasi)
 
   const handleChange = (e) => {
     setFormData({ ...formData, [e.target.id]: e.target.value });
