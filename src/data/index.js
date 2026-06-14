@@ -95,14 +95,14 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Healthcare App Portal",
-    category: "Web App",
-    tech: ["React", "Tailwind", "Firebase"],
+    title: "Grand Residence",
+    category: "Landing Page",
+    tech: ["HTML5", "Tailwind"],
     description:
-      "Secure patient management system with telemedicine integration.",
+      "Landing page untuk perumahan modern",
     image:
-      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80",
-    link: "#",
+      "img/rumah.png",
+    link: "https://grand-residence.vercel.app/",
   },
 ];
 
