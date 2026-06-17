@@ -93,7 +93,7 @@ export const projects = [
       "img/titik.png",
     link: "https://titik-temu.vercel.app/",
   },
-  {
+    {
     id: 4,
     title: "Grand Residence",
     category: "Landing Page",
@@ -103,6 +103,17 @@ export const projects = [
     image:
       "img/rumah.png",
     link: "https://grand-residence.vercel.app/",
+  },
+  {
+    id: 5,
+    title: "Rental Mobil",
+    category: "Landing Page",
+    tech: ["HTML5", "CSS3", "JavaScript"],
+    description:
+      "Website untuk layanan rental mobil.",
+    image:
+      "img/rental.png",
+    link: "https://rental-mobil-kappa.vercel.app/",
   },
 ];
 
