@@ -93,7 +93,7 @@ export const projects = [
       "img/titik.png",
     link: "https://titik-temu.vercel.app/",
   },
-    {
+  {
     id: 4,
     title: "Grand Residence",
     category: "Landing Page",
@@ -114,6 +114,15 @@ export const projects = [
     image:
       "img/rental.png",
     link: "https://rental-mobil-kappa.vercel.app/",
+  },
+  {
+  id: 6,
+  title: "Bimbel Cerdas Online",
+  category: "Web App",
+  tech: ["React", "Tailwind"],
+  description: "Platform bimbel online untuk belajar interaktif",
+  image: "img/bimbel.png",
+  link: "https://bimbel-cerdas-six.vercel.app/",
   },
 ];
 
